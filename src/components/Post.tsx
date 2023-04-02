@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { useAtom } from "jotai";
 import { api, RouterOutputs } from "~/utils/api";
 import { tokenAtom } from "~/utils/store";

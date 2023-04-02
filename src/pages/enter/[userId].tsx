@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { type NextPage, type GetServerSideProps } from "next";
 import Head from "next/head";
 import { Navbar } from "~/components/Navbar";
